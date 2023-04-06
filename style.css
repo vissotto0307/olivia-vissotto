@@ -1,4 +1,8 @@
 body{
-    background-color:write
-    
+    background-color:white
+    color:  black;
+    display: flex;
+}
+.cabecalho-imagem{
+    width: 20%;
 }
